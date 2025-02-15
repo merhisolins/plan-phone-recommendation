@@ -29,8 +29,11 @@ Os dados foram carregados do arquivo `users_behavior.csv` e passaram por um proc
 Este projeto segue princípios de **arquitetura modular**, garantindo escalabilidade e reuso eficiente de código. A estrutura adota uma abordagem **camada por camada**, separando **dados, processamento, modelagem e avaliação**.
 
 🔹 **Camada de Dados**: Tratamento e preparação dos dados utilizando `Pandas` e `NumPy`.
+
 🔹 **Camada de Modelagem**: Implementação e ajuste de algoritmos de aprendizado de máquina.
+
 🔹 **Camada de Avaliação**: Validação dos modelos com métricas de desempenho.
+
 🔹 **Camada de Visualização**: Geração de relatórios gráficos e dashboards para apresentação dos resultados.
 
 As principais tecnologias e bibliotecas utilizadas incluem:
