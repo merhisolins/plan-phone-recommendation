@@ -64,22 +64,4 @@ Dois modelos de classificação foram testados para a predição da variável `i
   - `solver`: liblinear
 - **Acurácia no conjunto de teste**: 70.61%
 
-🔍 **Conclusão**: O modelo **Random Forest Classifier** apresentou melhor desempenho e foi selecionado como a solução final.
-
----
-
-## Execução do Projeto
-
-### 🔧 Pré-requisitos
-Certifique-se de que possui o **Python 3.8+** instalado em sua máquina. Em seguida, instale as dependências do projeto utilizando:
-
-```bash
-pip install -r requirements.txt
-```
-
-### 🚀 Execução do modelo
-Para rodar a análise de dados e treinamento do modelo, execute o script principal:
-
-```bash
-python main.py
-```
+ **Conclusão**: O modelo **Random Forest Classifier** apresentou melhor desempenho e foi selecionado como a solução final.
